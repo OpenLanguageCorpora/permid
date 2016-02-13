@@ -16,4 +16,11 @@
       </plugin>
     </plugins>
   </build>
+  <dependencies>
+  	<dependency>
+  		<groupId>org.apache.jena</groupId>
+  		<artifactId>jena-core</artifactId>
+  		<version>3.0.1</version>
+  	</dependency>
+  </dependencies>
 </project>
